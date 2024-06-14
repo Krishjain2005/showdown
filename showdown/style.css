@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    overscroll-behavior: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gradient{
+    border: 2px solid transparent;
+    border-image: linear-gradient(to bottom,rgb(253, 98, 1),rgb(255, 213, 0)) 1;
+   
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.color{
+    background-color: rgb(23, 17, 31);
+}
+
+.jyoti{
+    border: 2px solid transparent;
+    border-image: linear-gradient(to bottom,rgb(253, 98, 1),rgb(12, 12, 12)) 1;
+}
+
+.round{
+    border-radius: 20px;
+}
